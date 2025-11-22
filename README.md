@@ -1,2 +1,2 @@
 # crime-analysis
-Crime data analysis with python and exce
+Crime data analysis with python, sql and exce
