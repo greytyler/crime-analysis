@@ -1,2 +1,2 @@
 # crime-analysis
-Crime data analysis with python and excel
+Crime data analysis with python
