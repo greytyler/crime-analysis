@@ -1,2 +1,2 @@
-#crime-analysis #eda #excel
+#crime-analysis #excel
 Crime data analysis with python
